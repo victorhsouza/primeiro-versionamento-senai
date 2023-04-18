@@ -41,3 +41,7 @@ main{
 p{
     font-size: 18px;
 }
+
+.noticia img{
+    width: 500px;
+}
